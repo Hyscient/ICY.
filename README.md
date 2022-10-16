@@ -7,5 +7,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `yarn start
- Using React, Jsx, CSS and HTML 
+## Using React, Jsx, CSS and HTML 
 ## Using fathym.com to deploy the website page 
