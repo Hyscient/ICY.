@@ -1,12 +1,5 @@
-#React JS E-Commerce Web App
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-#Available Scripts
-
-In the project directory, you can run:
-
-# yarn start
-# Using React, Jsx, CSS and HTML 
+# React JS E-Commerce Web App
+Using yarn package manager to create react app
+This project was bootstrapped with [Create React App]
+# Using React JS, Jsx, CSS and HTML 
 # Using fathym.com to deploy the website page 
